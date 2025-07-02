@@ -57,7 +57,7 @@ Currently focused on creating **intelligent business tools** and **LLM-powered l
 ## 📚 Education & Certifications
 
 - 🎓 MCA | AKTU (2022–2024) | SGPA: 7.65  
-- 🎓 BSc (Maths) | DBRAU (2019–2022)  
+- 🎓 BCA | CSJM Kanpur University (2017–2020)  
 - 📜 Generative AI (Microsoft + LinkedIn)  
 - 📜 Python Developer (OMR India Outsources)  
 - 📜 AI Job Simulation (Accenture Nordics)
