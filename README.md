@@ -2,16 +2,13 @@
 <h1 align="center">Hi, I'm Ekta Sharma 👋</h1>
 
 <a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=50&lines=👩‍💻+AI%2FML+%7C+Generative+AI+Developer+%7C+LLM+Developer+%7C+LangChain+%7C+LangGraph+%7C+OpenAI+%7C+RAG+Engineer+%7C+Scalable+AI+Tools+%26+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=50&lines=👩‍💻+QA+Engineer+%7C+Software+Tester+%7C+Manual+%26+Functional+Testing+%7C+API+Testing+(Postman%2C+Swagger)+%7C+Jira+%7C+Django+%7C+React" alt="Typing SVG" />
 </a>
 
 
+
+
 ---
-
-## 🧠 About Me
-
-👋 Hi, I’m Ekta Sharma – a QA Engineer passionate about ensuring software quality through manual testing, bug reporting, and API validation. Always curious, always learning, always testing!
-
 
 ## 👩‍💻 About Me  
 
@@ -28,66 +25,46 @@ Hi, I’m **Ekta Sharma** – a passionate **QA Engineer & Software Tester** who
 Outside of testing, I explore **automation basics, Python scripting, and open-source contributions** to improve my skills continuously.  
 
 ✨ Always curious, always testing, always learning.  
+
 ---
 
-## 🔧 Tools & Tech Stack
+🔧 Tools & Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,javascript,react,html,css,tailwind,mysql,mongodb,git,github,vscode,postman" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Swagger-API%20Testing-brightgreen?style=for-the-badge&logo=swagger&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-Bug%20Tracking-blue?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Manual%20Testing-gray?style=for-the-badge" /> <img src="https://img.shields.io/badge/Test%20Case%20Design-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/API%20Validation-lightblue?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Pytest-Testing Framework-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cypress-End%20to%20End%20Testing-darkgreen?style=for-the-badge&logo=cypress" /> </p>
+
+---
+
+🚀 Projects
+
+🧪 InnovJam Application Testing
+Performed manual + functional testing of an EdTech web app. Wrote structured test cases, executed scenarios, and reported bugs via Jira. Verified modules like Super Admin, User Management, Course Creation, and Assessment.
+
+📊 Social Media Dashboard (Django + React)
+Built a dashboard with user authentication, profile management, post scheduling, API integrations (Twitter/Facebook), and analytics visualization.
+
+🖨️ OpticView OMR Scanning Software
+Tested and validated a scanning solution integrated with Sekonic scanners for OMR sheet reading, result calculation, and layout management. Ensured accuracy in scanning jobs and template creation.
+
+⚙️ Admin Dashboard (Django + Swagger UI)
+Developed and tested modules for user management, layout management, job queues, and analytics. Performed API validation using Swagger & Postman.
+---
+
+📚 Education & Certifications
+
+🎓 MCA | AKTU (2022–2024) | SGPA: 7.65
+
+🎓 BCA | CSJM Kanpur University (2017–2020)
+
+📜 AMCAT Certified | Employability Assessment (Aptitude, Logical Reasoning, English, and Technical Skills)
+---
+
+📫 Let's Connect!
+<p align="center"> <a href="mailto:sharmaek7991@gmail.com"><img src="https://img.shields.io/badge/Email-sharmaek7991@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ekta-sharma-2b493221b/"><img src="https://img.shields.io/badge/LinkedIn-Ekta%20Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,tailwind,aws,mysql,mongodb,git,github,vscode" />
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,figma" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ekta-sharma&show_icons=true&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=ekta-sharma&theme=radical&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-API-black?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tavily-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 Projects
-
-- 🎓 **AI Assessment System**  
-  Built an NLP tool to score student answers using LLM workflows, PDF parsing, LangGraph chains, and OpenAI.
-
-- 🧠 **AI Business Advisor**  
-  Deployed LLM-based business advisor with LangChain, embeddings, and RAG logic for market analysis and planning.
-
-- 📊 **Chatbot + Summary Memory**  
-  Integrated LangGraph + FastAPI chatbot using ConversationSummaryBufferMemory and MongoDB for contextual chats.
-
-- 📄 **PDF Parsing Tool**  
-  Extracted structured metadata (questions, durations) from diverse PDFs to power assessment generation pipelines.
-
----
-
-## 📚 Education & Certifications
-
-- 🎓 MCA | AKTU (2022–2024) | SGPA: 7.65  
-- 🎓 BCA | CSJM Kanpur University (2017–2020)  
-- 📜 Python Developer (OMR India Outsources)  
-- 📜 AI Job Simulation (Accenture Nordics)
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:rathorpriya1718@gmail.com"><img src="https://img.shields.io/badge/Email-rathorpriya1718@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/priyarathor/"><img src="https://img.shields.io/badge/LinkedIn-PriyaRathor-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/Leetcode-PriyaRathor-yellow?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=priya-rathor&show_icons=true&theme=radical&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=priya-rathor&theme=radical&hide_border=true" />
-</p>## Hi there 👋
 
 <!--
 **Ekta-sharma5/Ekta-sharma5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
