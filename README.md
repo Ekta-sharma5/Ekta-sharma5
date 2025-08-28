@@ -10,15 +10,24 @@
 
 ## 🧠 About Me
 
-I'm a passionate AI/ML Developer working with **LLMs, NLP, RAG, and Generative AI**. I build **real-world automation tools and AI agents** using:
+👋 Hi, I’m Ekta Sharma – a QA Engineer passionate about ensuring software quality through manual testing, bug reporting, and API validation. Always curious, always learning, always testing!
 
-- 🔍 **LangChain**, **LangGraph**, **OpenAI**, **Tavily**
-- ☁️ **AWS (EC2, S3, RDS)** for scalable cloud deployment
-- 📚 NLP + PDF parsing + contextual assessment generation
-- 🧩 Modular architectures, embeddings, real-time scoring, and chat summarization
 
-Currently focused on creating **intelligent business tools** and **LLM-powered learning experiences**.
+## 👩‍💻 About Me  
 
+Hi, I’m **Ekta Sharma** – a passionate **QA Engineer & Software Tester** who loves ensuring that applications work seamlessly and deliver a great user experience.  
+
+🔹 I specialize in **manual testing, functional testing, and writing structured test cases**.  
+🔹 Experienced with **bug tracking tools** like **Jira** and preparing detailed bug reports.  
+🔹 Hands-on with **API testing (Postman, Swagger)** and debugging issues across modules.  
+🔹 Familiar with **Django + React projects**, template management systems, and admin dashboards.  
+🔹 Worked on **OMR Scanning Software (OpticView)**, **Social Media Dashboard**, and other real-time applications.  
+
+💡 My approach: Testing isn’t just about finding bugs—it’s about **thinking like a user, validating like a developer, and ensuring quality at every step**.  
+
+Outside of testing, I explore **automation basics, Python scripting, and open-source contributions** to improve my skills continuously.  
+
+✨ Always curious, always testing, always learning.  
 ---
 
 ## 🔧 Tools & Tech Stack
