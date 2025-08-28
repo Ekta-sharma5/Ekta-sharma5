@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ekta Sharma 👋</h1>
 
 <a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=50&lines=👩‍💻+QA+Engineer+%7C+Software+Tester+%7C+Manual+%26+Functional+Testing+%7C+API+Testing+(Postman%2C+Swagger)+%7C+Jira+%7C+Django+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=50&lines=👩‍💻+QA+Engineer+%7C+Software+Tester+%7C+Manual+%26+Functional+Testing+%7C+API+Testing-Postman%2FSwagger+%7C+Jira+%7C+Django+%7C+React" alt="Typing SVG" />
 </a>
 
 
